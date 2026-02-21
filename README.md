@@ -1,2 +1,2 @@
-# Y52-Programaci-n-B-sica
+# Y52-Programacion-Basica
 Problemas en Python
